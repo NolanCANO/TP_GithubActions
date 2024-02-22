@@ -61,3 +61,22 @@
 #### On peut voir ci-dessous que les tests sont bien passé après avoir push :
 
 ![alt text](image-10.png)
+
+
+---
+
+
+## 6. Ajouter et utiliser pylint
+
+#### Pour commencer, j'ai rajouter des lignes dans mon fichier python-app.yml pour utiliser pylint :
+
+![alt text](image-11.png)
+
+#### Ensuite, après avoir push, j'ai obtenue un score de 0.71/10
+
+![alt text](image-12.png)
+
+#### J'ai donc essayer d'améliorer ma note en ajoutant des commentaires et en changeant le nom de mes fichier.
+#### Et j'ai obtenue la note de 3.57/10 :
+
+![alt text](image-13.png)
