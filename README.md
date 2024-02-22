@@ -5,7 +5,7 @@
 
 #### Pour commencer, j'ai lié mon compte Github à mon ordinateur via une clé SSH
 
-![alt text](image.png)
+![alt text](images/image.png)
 
 ---
 
@@ -14,7 +14,7 @@
 
 #### J'ai suivi le tuto sur https://docs.github.com/fr/actions/quickstart et j'ai créer mon premier workflow :
 
-![alt text](image-1.png)
+![alt text](images/image-1.png)
 
 
 ---
@@ -23,13 +23,13 @@
 
 #### Pour l'exo 3, j'ai du créer 2 classes python, une qui s'appelle SimpleMath.py et l'autre TestSimpleMath.py :
 
-![alt text](image-2.png)
+![alt text](images/image-2.png)
 
-![alt text](image-3.png)
+![alt text](images/image-3.png)
 
 #### ensuite j'ai tester les deux fichiers avec la commande suivante :
 
-![alt text](image-4.png)
+![alt text](images/image-4.png)
 
 
 ---
@@ -38,11 +38,11 @@
 
 #### Pour tester les fichiers python, j'ai créer un workflow adapté :
 
-![alt text](image-5.png)
+![alt text](images/image-5.png)
 
 #### Après avoir push, GitHub détectera le fichier de workflow et exécutera les actions définies sur la branche main : 
 
-![alt text](image-6.png)
+![alt text](images/image-6.png)
 
 
 ---
@@ -52,15 +52,15 @@
 
 #### Pour cette exercice j'ai modifier mes fichiers python pour ajouter la fonction "soustraction" et son test associé :
 
-![alt text](image-8.png)
+![alt text](images/image-8.png)
 
-![alt text](image-7.png)
+![alt text](images/image-7.png)
 
-![alt text](image-9.png)
+![alt text](images/image-9.png)
 
 #### On peut voir ci-dessous que les tests sont bien passé après avoir push :
 
-![alt text](image-10.png)
+![alt text](images/image-10.png)
 
 
 ---
@@ -70,16 +70,16 @@
 
 #### Pour commencer, j'ai rajouter des lignes dans mon fichier python-app.yml pour utiliser pylint :
 
-![alt text](image-11.png)
+![alt text](images/image-11.png)
 
 #### Ensuite, après avoir push, j'ai obtenue un score de 0.71/10
 
-![alt text](image-12.png)
+![alt text](images/image-12.png)
 
 #### J'ai donc essayer d'améliorer ma note en ajoutant des commentaires et en changeant le nom de mes fichier.
 #### Et j'ai obtenue la note de 3.57/10 :
 
-![alt text](image-13.png)
+![alt text](images/image-13.png)
 
 
 ---
@@ -90,17 +90,17 @@
 #### Pour ajouter une étape qui build un conteneur Docker embarquant mon application, j’ai du modifier mon fichier python-app.yml. 
 #### J’ai également décider de supprimer pylint pour cette exercice car il est trop exigent :
 
-![alt text](image-14.png)
+![alt text](images/image-14.png)
 
 #### J'ai ensuite fait un Dockerfile qui va exécuter les tests unitaires dès le run :
 
-![alt text](image-15.png)
+![alt text](images/image-15.png)
 
 #### et pour finir j'ai push et j'ai vérifier que tout a fonctionné :
 
-![alt text](image-16.png)
+![alt text](images/image-16.png)
 
-![alt text](image-17.png)
+![alt text](images/image-17.png)
 
 
 ----
