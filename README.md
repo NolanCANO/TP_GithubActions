@@ -7,7 +7,7 @@
 
 ![alt text](image.png)
 
-
+---
 
 
 ## 2. Tester un premier workflow Github
@@ -17,7 +17,7 @@
 ![alt text](image-1.png)
 
 
-
+---
 
 ## 3. Créer deux classes python
 
@@ -32,7 +32,7 @@
 ![alt text](image-4.png)
 
 
-
+---
 
 ## 4.  créer un workflow pour lancer les tests
 
