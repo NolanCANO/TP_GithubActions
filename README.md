@@ -80,3 +80,29 @@
 #### Et j'ai obtenue la note de 3.57/10 :
 
 ![alt text](image-13.png)
+
+
+---
+
+
+## 7. Ajouter une étape
+
+#### Pour ajouter une étape qui build un conteneur Docker embarquant mon application, j’ai du modifier mon fichier python-app.yml. 
+#### J’ai également décider de supprimer pylint pour cette exercice car il est trop exigent :
+
+![alt text](image-14.png)
+
+#### J'ai ensuite fait un Dockerfile qui va exécuter les tests unitaires dès le run :
+
+![alt text](image-15.png)
+
+#### et pour finir j'ai push et j'ai vérifier que tout a fonctionné :
+
+![alt text](image-16.png)
+
+![alt text](image-17.png)
+
+
+----
+
+by Nolan CANO
