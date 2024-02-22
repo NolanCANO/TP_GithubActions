@@ -39,3 +39,25 @@
 #### Pour tester les fichiers python, j'ai créer un workflow adapté :
 
 ![alt text](image-5.png)
+
+#### Après avoir push, GitHub détectera le fichier de workflow et exécutera les actions définies sur la branche main : 
+
+![alt text](image-6.png)
+
+
+---
+
+
+## 5. Créer la fonction soustraction
+
+#### Pour cette exercice j'ai modifier mes fichiers python pour ajouter la fonction "soustraction" et son test associé :
+
+![alt text](image-8.png)
+
+![alt text](image-7.png)
+
+![alt text](image-9.png)
+
+#### On peut voir ci-dessous que les tests sont bien passé après avoir push :
+
+![alt text](image-10.png)
